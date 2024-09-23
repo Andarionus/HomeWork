@@ -53,11 +53,12 @@
 ![изображение](https://github.com/user-attachments/assets/e6b74527-8552-448f-9467-c192106e4ecd)
 - Данный скрипт написан с подключением библиотеки UI с движка юнити, позволяет заменить любую фразу в  присоединённом объекте "текст" на Hello World. Так как Visual Studio подключен по иснтрукции с курса, написано всё на нём.
 
-- ![изображение](https://github.com/user-attachments/assets/7079d5c1-b5bd-479f-bfda-d591f31292f9)
+![изображение](https://github.com/user-attachments/assets/7079d5c1-b5bd-479f-bfda-d591f31292f9)
 
 ![изображение](https://github.com/user-attachments/assets/a391545a-4755-46cc-a4b8-f32854282276)
 
-![изображение](https://github.com/user-attachments/assets/bf6452f9-a3c9-4896-a0fd-9d7a5c324064)
+![изображение](https://github.com/user-attachments/assets/e19c3f80-c06f-4f31-b96a-84dc6c834cdf)
+
 
 - К данному скрипту присоединён объект "текст", что явялется частью интерактивного объекта "кнопка". При запуске сцены имеется возможность нажать на кнопку, которая по этому триггеру выводит рядом объект "текст". В этом случае выводится Hello World благодаря скрипту.
 
