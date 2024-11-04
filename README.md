@@ -63,10 +63,6 @@
 ![изображение](https://github.com/user-attachments/assets/534998d3-bca4-48ab-8da3-8c4354e02dff) ![scale_1200](https://github.com/user-attachments/assets/3b17b372-5f04-4605-8dda-dc839215a462)
 
 
-![изображение](https://github.com/user-attachments/assets/6d034d03-5862-49d0-ab8a-ae0fbb02a047)
-![изображение](https://github.com/user-attachments/assets/d7b5e28d-99e0-4341-ae80-fe24c1c36915)
-![изображение](https://github.com/user-attachments/assets/16824b95-9e91-4112-b0ab-f6d8dba8729b)
-
 
 ## Задание 3
 ### Решение в 80+ баллов должно визуализировать данные из google-таблицы, и с помощью Python передавать переменные в проект Unity. В Python данные также должны быть визуализированы.
